@@ -1,5 +1,6 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 git pull
 =======
 "git pull"
@@ -8,3 +9,6 @@ git pull
 "git pull"
  
 >>>>>>> 929dd4196449ef1085980de419611fac964e469a
+=======
+git pull
+>>>>>>> master
